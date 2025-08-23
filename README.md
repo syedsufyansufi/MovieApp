@@ -15,14 +15,6 @@ A modern, responsive movie discovery application built with React and powered by
 
 Visit the live application: **[Movie App](https://movie-app-six-ruddy.vercel.app/)**
 
-## 📸 Screenshots
-
-### Homepage with Hero Section
-![Homepage](screenshot-1.png)
-
-### Trending Movies & Search Results
-![Trending Movies](screenshot-2.png)
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: React 18, Vite
